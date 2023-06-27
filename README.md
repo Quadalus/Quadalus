@@ -1,26 +1,25 @@
 <div id="header" align="center">
     <h3>Hi there 👋</h3>
-    <h3>My name is Valentina</h3>
+    <h3>My name is Alexander</h3>
     <h4>I'm a Java Developer!</h4>
 </div>
 
 <div>
    <table width="100%" height="100%" align="center" valign="center">
    <tr><td>
-         <li> ✔️ I'm currently working as a QA Auto
          <li> ✔️ I successfully completed the Java Developer course at Yandex Practicum
          <li> 🌱 I'm taking a course on algorithms and data structures for writing efficient code
-         <li> 🌱 Looking for development opportunities as a Java Developer/QA Automation
+         <li> 🌱 Looking for development opportunities as a Java Developer
    </td></tr>
    </table>
 </div>
 
 <div id="header" align="center">
     <h3>Contacts</h3>
-    <a href="https://t.me/valentinakole">
+    <a href="https://t.me/quadalus">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    <a href="mailto:valentinavasileva34@gmail.com">
+    <a href="mailto:quadalus@yandex.ru">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
@@ -37,9 +36,9 @@
 </div>
 <br>
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quadalus" alt=""/>
 </div>
 <div id="stat" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valentina810" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quadalus" alt=""/>
 </div>
